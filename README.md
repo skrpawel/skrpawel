@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pawel
-- 👀 I’m interested in ...
+- 👀 I’m interested in Frontend Developement, Graphic Design, training and shoes 😅
 - 🌱 I’m currently learning Javascript and React
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-skrobski-ab9534146/)
 
