@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Pawel
-- 👀 I’m interested in Frontend Developement, Graphic Design, training and shoes 😅
-- 🌱 I’m currently learning JavaScript and React
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/pawe%C5%82-skrobski-ab9534146/)
+- 👀 I’m interested in Frontend Developement, Graphic Design, training and limited sneakers 😅
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/pawel-skrobski/)
 
 <!---
 skrpawel/skrpawel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
